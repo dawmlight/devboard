@@ -7,8 +7,7 @@
  * 归属于 OpenHarmony ，开放社区，持续 演进 。
  * 立足南向，服务 OpenHarmony 生态，特别是引流
  * 芯片原厂和 IP 厂商加入 OpenHarmony 生态。
- * 制订和维护 OpenHarmony 开源硬件规范，范围覆
- * 盖鸿蒙 L0 L5 设备等级。
+ * 制订和维护 OpenHarmony 开源硬件规范，范围覆盖鸿蒙 L0 L5 设备等级。
  * OpenHarmony 官方硬件认证机构，向开发者提供
    高质量、 BSP ready 的硬件平台。
 
