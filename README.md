@@ -1,4 +1,4 @@
-# OH-BoardWebsite-SIG
+# SIG-DevBoard
 
 # 介绍
 解决OHOS主板及配件的碎片化，提供OHOS板卡一站式服务平台，提供OHOS板卡商机的交流平台

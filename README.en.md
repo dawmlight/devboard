@@ -1,4 +1,4 @@
-# OH_RISC-V_SIG
+# SIG-DevBoard
 
 #### Introduction
 
